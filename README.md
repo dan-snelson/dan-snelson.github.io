@@ -1,7 +1,7 @@
-theme: jekyll-theme-leap-day
-# Dan K. Snelson
-## GitHub Repositories
+# Line 1 Heading 1
+## Line 2 Heading 2
 
-https://github.com/dan-snelson/Jamf-Pro-Scripts
+### Repositories
+[Jamf Pro Scripts](https://github.com/dan-snelson/Jamf-Pro-Scripts)
 
-https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes
+[Jamf Pro Extension Attributes](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes)
