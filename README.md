@@ -14,6 +14,5 @@ While we're waiting for Jamf Pro 10's Patch Management to support scripts, here'
 
 # [Jamf Pro Extension Attributes](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes)
 ## Featured Extension Attribute
-### Returns the number of failed login attempts
-
-[Failed Logins](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes/blob/master/Failed%20Logins.sh)
+### [Failed Logins](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes/blob/master/Failed%20Logins.sh)
+Returns the number of failed login attempts
