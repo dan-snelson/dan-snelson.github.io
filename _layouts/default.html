@@ -22,7 +22,7 @@
       </header>
 
       <div id="banner">
-        <span id="logo"></span>
+        <span id="logo"><p>{{ site.description | default: site.github.project_tagline }}</p></span>
 
         <!-- <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a> -->
         {% if site.show_downloads %}
